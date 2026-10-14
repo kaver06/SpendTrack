@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#6C63FF</color>
+    <color name="accent_light">#9D97FF</color>
+    <color name="background">#0A0A0F</color>
+    <color name="divider">#2A2A3A</color>
+    <color name="on_background">#E8E8F0</color>
+    <color name="on_surface">#CCCCDD</color>
+    <color name="on_surface_dim">#888899</color>
+    <color name="secondary">#FF6584</color>
+    <color name="surface">#12121A</color>
+    <color name="surface_variant">#1A1A26</color>
+    <color name="today_highlight">#1A6C63FF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add">Add</string>
+    <string name="add_description">Add description...</string>
+    <string name="app_name">SpendTrack</string>
+    <string name="cancel">Cancel</string>
+    <string name="csv_saved">CSV saved to Downloads</string>
+    <string name="day">Day</string>
+    <string name="delete">Delete</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="export_failed">Export failed</string>
+    <string name="food">Food</string>
+    <string name="no_details">No details yet</string>
+    <string name="others">Others</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="total">Total</string>
+    <string name="total_personal_expense">Total Personal Expense</string>
+    <string name="total_travel_expense">Total Travel Expense</string>
+    <string name="travelling">Travelling</string>
+    <string name="widget_description">Shows personal and travel expense progress</string>
+    <string name="widget_label">SpendTrack Widget</string>
+    <style name="Theme.SpendTrack" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+    </style>
+    <style name="Theme.SpendTrack.Starting" parent="Theme.SpendTrack"/>
+</resources>

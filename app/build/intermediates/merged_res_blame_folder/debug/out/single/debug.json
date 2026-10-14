@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Gradle\\daemon\\8.2\\com.spendingtracker.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Gradle\\daemon\\8.2\\com.spendingtracker.app-main-63:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\8.2\\com.spendingtracker.app-merged_res-61:\\layout_widget_spending.xml.flat",
+        "source": "C:\\Gradle\\daemon\\8.2\\com.spendingtracker.app-main-63:\\layout\\widget_spending.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\8.2\\com.spendingtracker.app-merged_res-61:\\xml_widget_info.xml.flat",
+        "source": "C:\\Gradle\\daemon\\8.2\\com.spendingtracker.app-main-63:\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "com.spendingtracker.app-merged_res-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.spendingtracker.app-main-63:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\8.2\\com.spendingtracker.app-merged_res-61:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Gradle\\daemon\\8.2\\com.spendingtracker.app-main-63:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\8.2\\com.spendingtracker.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Gradle\\daemon\\8.2\\com.spendingtracker.app-main-63:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

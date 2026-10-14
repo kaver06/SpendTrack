@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpendTrack</string>
+    <string name="widget_label">SpendTrack Widget</string>
+    <string name="widget_description">Shows personal and travel expense progress</string>
+    <string name="food">Food</string>
+    <string name="travelling">Travelling</string>
+    <string name="others">Others</string>
+    <string name="total">Total</string>
+    <string name="day">Day</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="no_details">No details yet</string>
+    <string name="add_description">Add description...</string>
+    <string name="total_personal_expense">Total Personal Expense</string>
+    <string name="total_travel_expense">Total Travel Expense</string>
+    <string name="csv_saved">CSV saved to Downloads</string>
+    <string name="export_failed">Export failed</string>
+</resources>
