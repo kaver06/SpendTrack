@@ -154,7 +154,7 @@ cd SpendTrack
 ```
 
 The compiled APK will be located at:
-`app/build/outputs/apk/debug/app-debug.apk`
+`SpendTrack.apk`
 
 ---
 
